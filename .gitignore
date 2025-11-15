@@ -1,0 +1,22 @@
+# dependencies
+node_modules
+.pnpm-store
+
+# next
+.next
+out
+.vercel
+
+# env
+.env
+.env.local
+.env.production
+.env.development
+.env.test
+
+# misc
+dist
+*.log
+*.DS_Store
+
+
